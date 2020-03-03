@@ -1,0 +1,20 @@
+.d-none{
+  display: none;
+}
+.form-section .alert{
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.form-section input[placeholder]::-webkit-input-placeholder { /* Edge */
+  color: #a79f9f;
+}
+
+.form-section input[placeholder]:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #a79f9f;
+}
+
+.form-section input[placeholder]::placeholder {
+  color: #a79f9f;
+}

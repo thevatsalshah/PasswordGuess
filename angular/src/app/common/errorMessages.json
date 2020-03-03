@@ -1,0 +1,46 @@
+{
+    "ERROR": {
+        "REQUIRED": {
+            "Password": "Enter password",
+            "Username": "Enter username",
+            "oldPassword": "Enter current password",
+            "newPassword": "Enter new password",
+            "confirmPassword": "Enter confirm password",
+            "Email": "Enter email address",
+            "firstname": "Enter first Name",
+            "lastname": "Enter last Name",
+            "username": "Enter user name",
+            "mobile": "Enter mobile number",
+            "Title": "Enter title ",
+            "content": "Enter Content",
+            "metaTitle": "Enter metaTitle",
+            "metaKeyword": "Enter metaKeyword",
+            "metaDescription": "Enter metaDescription",
+            "pageId": "Enter pageId",
+            "pageName": "Enter pageName",
+            "pageUrl": "Enter PageURL"
+        },
+        "PATTERN": {
+            "Age": "Please enter proper Age",
+            "Mobile": "Phone number can not be less than 4 characters",
+            "Email": "Please enter a valid email address",
+            "Password": "Password must contain at least one letter and one digit",
+            "Username": "Invalid Username",
+            "Contactno": "Invalid Contact Number"
+        },
+        "MINLENGTH": {
+            "mobile": "Mobile number should be 10 digits",
+            "Password": "Password must be atleast 6 characters",
+            "Distance": "Distance should be minimum 1 characters",
+            "PinNo": "Please enter minimum 6 pin number",
+            "FirstName": "Distance should not be more than 5 chartacters",
+            "LastName": "Distance should not be more than 5 chartacters",
+            "Username": "Username must be atleast 5 characters"
+        },
+        "CUSTOM": {
+            "ConfirmPassword": "Confirm password does not match!",
+            "Location": "Please enter valid location",
+            "Subject": "Please select subject from available list"
+        }
+    }
+}
